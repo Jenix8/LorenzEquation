@@ -3,6 +3,10 @@ Release/
 x64/
 .vs/
 include/
+
+*.mp4
+*.gif
+
 **/Debug/
 **/Release/
 **/x64/
