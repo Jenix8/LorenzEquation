@@ -1,0 +1,8 @@
+Debug/
+Release/
+x64/
+.vs/
+include/
+**/Debug/
+**/Release/
+**/x64/

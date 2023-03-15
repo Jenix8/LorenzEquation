@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LorenzEq", "LorenzEq\LorenzEq.vcxproj", "{3175A2AE-D708-431F-AD9C-21306FA10EEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3175A2AE-D708-431F-AD9C-21306FA10EEB}.Debug|x64.ActiveCfg = Debug|x64
+		{3175A2AE-D708-431F-AD9C-21306FA10EEB}.Debug|x64.Build.0 = Debug|x64
+		{3175A2AE-D708-431F-AD9C-21306FA10EEB}.Debug|x86.ActiveCfg = Debug|Win32
+		{3175A2AE-D708-431F-AD9C-21306FA10EEB}.Debug|x86.Build.0 = Debug|Win32
+		{3175A2AE-D708-431F-AD9C-21306FA10EEB}.Release|x64.ActiveCfg = Release|x64
+		{3175A2AE-D708-431F-AD9C-21306FA10EEB}.Release|x64.Build.0 = Release|x64
+		{3175A2AE-D708-431F-AD9C-21306FA10EEB}.Release|x86.ActiveCfg = Release|Win32
+		{3175A2AE-D708-431F-AD9C-21306FA10EEB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {512235FB-D8F9-431C-AB60-5F89AD278A04}
+	EndGlobalSection
+EndGlobal
