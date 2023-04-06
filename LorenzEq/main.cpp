@@ -12,8 +12,6 @@
 #include "camera.h"
 #include "Lorenz.h"
 
-#include <iostream>
-
 constexpr int W = 1200;
 constexpr int H = 1200;
 
